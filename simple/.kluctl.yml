@@ -1,4 +1,5 @@
 targets:
   - name: simple
+    context: kind-kind
     args:
       environment: simple
